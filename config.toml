@@ -50,7 +50,7 @@ paginate = 5 #frontpage pagination
   [[menu.main]]
   identifier = "staf"
   name = "Staff"
-  url = "/"
+  url = "staff/"
   weight = 2
   
         [[menu.main]]
@@ -74,7 +74,7 @@ paginate = 5 #frontpage pagination
   [[menu.main]]
   identifier = "stud"
   name = "Students"
-  url = "students/"
+  url = "https://ukzn-grassland-students.netlify.com/"
   weight = 3
   
         [[menu.main]]
